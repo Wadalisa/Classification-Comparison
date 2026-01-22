@@ -17,17 +17,6 @@ Rather than chasing raw scores, the quest focuses on **diagnosing weaknesses**, 
 
 ---
 
-## 📁 Quest Inventory
-
-```
-.
-├── COS711_A3.ipynb              # Baseline classification build
-├── Assignment3_Resnet.ipynb     # Enhanced (ResNet) build
-├── README_COS711_A3.md          # Quest log
-```
-
----
-
 ## ⚙️ Gear Equipped — Tech Stack
 
 * **Python 3**
